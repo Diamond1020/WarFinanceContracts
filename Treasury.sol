@@ -29,7 +29,7 @@ library Math {
      */
     function min(uint256 a, uint256 b) internal pure returns (uint256) {
         return a < b ? a : b;
-    }
+    } 
 
     /**
      * @dev Returns the average of two numbers. The result is rounded towards
